@@ -22,13 +22,11 @@ body {
 }
 
 .section {
-    background: url(/images/bg-pattern-top.svg) left top,
-        url(/images/bg-pattern-bottom.svg) right bottom;
+    background: url(/images/bg-pattern-top.svg),
+        url(/images/bg-pattern-bottom.svg);
     background-repeat: no-repeat no-repeat;
+    background-position: right 52w bottom 35vh, left 48vw top 52vh;
     background-color: var(--dark-cyan);
-    background-size: 650px 650px;
-    /* background-origin: border-box, content-box; */
-    background-clip: border-box;
     width: 100vw;
     max-width: 144rem;
     height: 100vh;
