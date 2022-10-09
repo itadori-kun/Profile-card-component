@@ -28,7 +28,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Netlify URL: [Netlify URL](https://your-solution-url.com)
+- Netlify URL: [Netlify URL](https://profile-component-card-preview.netlify.app/)
 - Github URL: [Github URL](https://github.com/itadori-kun/Profile-card-component.git)
 
 ## My process
